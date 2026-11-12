@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Logo de RecetIA" width="140">
+</p>
+
 # RecetIA
 
 Mini asistente RAG de recetas en español con detección de alérgenos, búsqueda híbrida en **ChromaDB**, generación local con **Qwen3 (`qwen3:1.7b` vía Ollama)** y una interfaz web sencilla en **Flask**.
@@ -14,3 +18,4 @@ Mini asistente RAG de recetas en español con detección de alérgenos, búsqued
 2. Tener **Ollama** activo en local con el modelo `qwen3:1.7b` descargado (`ollama pull qwen3:1.7b`).
 3. Ejecutar las celdas de `main2.ipynb` en orden (la primera ejecución crea la carpeta `chroma_recetas_20k/` en local).
 4. Al ejecutar la celda de Flask, abrir `http://localhost:5000` en el navegador.
+
