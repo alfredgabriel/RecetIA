@@ -1,0 +1,8 @@
+# Bases vectoriales generadas automáticamente por los notebooks (superan el límite de 100 MB de GitHub)
+chroma_recetas/
+chroma_recetas_20k/
+
+# Archivos temporales de Jupyter, Python y PowerPoint
+.ipynb_checkpoints/
+__pycache__/
+~$*.pptx
